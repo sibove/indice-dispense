@@ -3,9 +3,6 @@
 ## Il progetto
 Questo è l'indice che raccoglie le dispense non ufficiali per gli insegnamenti dei corsi di laurea triennale e magistrale in Matematica presso Uniud.
 Le dispense sono frutto del lavoro di studenti che hanno frequentato i corsi, e sono principalmente ottenute trascrivendo "in bella" gli appunti presi a lezione. 
-
-HELO
-
 Le dispense sono raggruppate in base all'anno accademico in cui i corsi sulle quali sono basate sono state erogate. 
 Ogni dispensa ha una propria repository su Github, in cui sono disponibili i sorgenti $\LaTeX$ e ovviamente le dispense vere e proprie in formato pdf. 
 L'idea è che, grazie a questo database condiviso, gli studenti che si approcciano a corsi per cui i professori non producono dispense possano partire da un progetto già sostanzialmente pronto, eventualmente adattando le dispense in base agli argomenti trattati, che come noto spesso variano di anno in anno. 
