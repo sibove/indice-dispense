@@ -19,7 +19,7 @@ Ci sono due situazioni:
 
 
 ## Dispense A.A. 2019/20
-* [Probabilità I](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* Probabilità I
 
 ## Dispense A.A. 2020/21
 * Istituzioni di Geometria Superiore, mod. 1 (Analisi complessa)
@@ -29,4 +29,4 @@ Ci sono due situazioni:
 
 ## Dispense A.A. 2021/22
 * Istituzioni di Analisi Superiore, mod. 1
-* Matematiche Complementari (frattali)
+* [Matematiche Complementari](https://github.com/sibove/matcomp) (frattali)
